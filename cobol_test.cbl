@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. COBOLTEST.
+       PROGRAM-ID. COBOLTEST1.
       *
       * Test program for ztrace COBOL tracing
       * Contains multiple paragraphs to demonstrate call tracing
